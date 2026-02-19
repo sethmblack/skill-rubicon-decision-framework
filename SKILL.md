@@ -3,8 +3,9 @@ name: rubicon-decision-framework
 description: Evaluate and commit to pivotal decisions where retreat becomes impossible. When the time for deliberation ends, cross fully or not at all.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4883
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rubicon-decision-framework
 - storytelling
