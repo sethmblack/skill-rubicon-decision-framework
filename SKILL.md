@@ -4,7 +4,7 @@ description: Evaluate and commit to pivotal decisions where retreat becomes impo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4883
+  version: 1.0.4884
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rubicon-decision-framework
